@@ -1,5 +1,5 @@
 {
-  "global": {
+  "foundation": {
     "fontFamilies": {
       "Primary": {
         "value": "Roboto",
@@ -1195,6 +1195,56 @@
           }
         }
       }
+    }
+  },
+  "semanticWeb": {
+    "LargeScreen": {
+      "Display1": {
+        "value": {
+          "fontFamily": "$fontFamilies.Primary",
+          "fontWeight": "$fontWeights.400",
+          "lineHeight": "$lineHeights.100",
+          "fontSize": "$fontSizes.LargeScreen.800",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "Display2": {
+        "value": {
+          "fontFamily": "$fontFamilies.Primary",
+          "fontWeight": "$fontWeights.400",
+          "lineHeight": "$lineHeights.100",
+          "fontSize": "$fontSizes.LargeScreen.600",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "semanticApp": {
+    "Display1": {
+      "value": {
+        "fontFamily": "$fontFamilies.Primary",
+        "fontWeight": "fontWeights.400",
+        "lineHeight": "$lineHeights.100",
+        "fontSize": "$fontSizes.SmallScreen.800",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "Display2": {
+      "value": {
+        "fontFamily": "$fontFamilies.Primary",
+        "fontWeight": "fontWeights.400",
+        "lineHeight": "$lineHeights.100",
+        "fontSize": "$fontSizes.SmallScreen.600",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "0"
+      },
+      "type": "typography"
     }
   }
 }
