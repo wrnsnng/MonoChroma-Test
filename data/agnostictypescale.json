@@ -1,0 +1,1250 @@
+{
+  "foundation": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "Secondary": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "Icons": {
+        "value": "Font Awesome 5 Pro",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "auto",
+        "type": "lineHeights"
+      },
+      "100": {
+        "value": "125%",
+        "type": "lineHeights"
+      },
+      "200": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "300": {
+        "value": "175%",
+        "type": "lineHeights"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "100": {
+        "value": "4",
+        "type": "letterSpacing"
+      },
+      "200": {
+        "value": "4",
+        "type": "letterSpacing"
+      },
+      "300": {
+        "value": "6",
+        "type": "letterSpacing"
+      }
+    },
+    "fontWeights": {
+      "100": {
+        "value": "Thin",
+        "type": "fontWeights"
+      },
+      "200": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "300": {
+        "value": "Book",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "600": {
+        "value": "Semi-Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "800": {
+        "value": "Extrabold",
+        "type": "fontWeights"
+      },
+      "900": {
+        "value": "Black",
+        "type": "fontWeights"
+      }
+    },
+    "fontSizes": {
+      "LargeScreen": {
+        "100": {
+          "value": "12px",
+          "type": "fontSizes"
+        },
+        "200": {
+          "value": "14px",
+          "type": "fontSizes"
+        },
+        "300": {
+          "value": "16px",
+          "type": "fontSizes"
+        },
+        "400": {
+          "value": "20px",
+          "type": "fontSizes"
+        },
+        "500": {
+          "value": "24px",
+          "type": "fontSizes"
+        },
+        "600": {
+          "value": "28px",
+          "type": "fontSizes"
+        },
+        "700": {
+          "value": "36px",
+          "type": "fontSizes"
+        },
+        "800": {
+          "value": "48px",
+          "type": "fontSizes"
+        },
+        "900": {
+          "value": "64px",
+          "type": "fontSizes"
+        },
+        "1000": {
+          "value": "80px",
+          "type": "fontSizes"
+        }
+      },
+      "SmallScreen": {
+        "100": {
+          "value": "12px",
+          "type": "fontSizes"
+        },
+        "200": {
+          "value": "14px",
+          "type": "fontSizes"
+        },
+        "300": {
+          "value": "16px",
+          "type": "fontSizes"
+        },
+        "400": {
+          "value": "18px",
+          "type": "fontSizes"
+        },
+        "500": {
+          "value": "20px",
+          "type": "fontSizes"
+        },
+        "600": {
+          "value": "24px",
+          "type": "fontSizes"
+        },
+        "700": {
+          "value": "28px",
+          "type": "fontSizes"
+        },
+        "800": {
+          "value": "38px",
+          "type": "fontSizes"
+        },
+        "900": {
+          "value": "52px",
+          "type": "fontSizes"
+        },
+        "1000": {
+          "value": "64px",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "Typography": {
+      "AgnosticTypeScale": {
+        "LargeScreen": {
+          "100": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "175": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "200": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "275": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "400": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "475": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "500": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "575": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "600": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "675": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "775": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "800": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "875": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "900": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "975": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1000": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1075": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300_Link": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375_Link": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          }
+        },
+        "SmallScreen": {
+          "100": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "175": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "200": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "275": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "400": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "475": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "500": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "575": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "600": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "675": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "775": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "800": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "875": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "900": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "975": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1000": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1075": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          }
+        }
+      },
+      "SemanticTypeScale": {
+        "LargeScreen": {
+          "100": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "175": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "200": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "275": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "400": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "475": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "500": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "575": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "600": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "675": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "775": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "875": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "900": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "975": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1075": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "Headline2": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "Headline1": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.LargeScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300_Link": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375_Link": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.200",
+              "fontSize": "$fontSizes.LargeScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          }
+        },
+        "SmallScreen": {
+          "100": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "175": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.100",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "200": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "275": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.200",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "300": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "375": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.300",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "400": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "475": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.400",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "500": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "575": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.500",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "600": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "675": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.600",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "775": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.700",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "800": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "875": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.800",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "900": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "975": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.900",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1000": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.400",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          },
+          "1075": {
+            "value": {
+              "fontFamily": "$fontFamilies.Primary",
+              "fontWeight": "$fontWeights.700",
+              "lineHeight": "$lineHeights.100",
+              "fontSize": "$fontSizes.SmallScreen.1000",
+              "letterSpacing": "$letterSpacing.0",
+              "paragraphSpacing": "0"
+            },
+            "description": "",
+            "type": "typography"
+          }
+        }
+      }
+    }
+  },
+  "semanticWeb": {
+    "LargeScreen": {
+      "Display1": {
+        "value": {
+          "fontFamily": "$fontFamilies.Primary",
+          "fontWeight": "$fontWeights.400",
+          "lineHeight": "$lineHeights.100",
+          "fontSize": "$fontSizes.LargeScreen.800",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "Display2": {
+        "value": {
+          "fontFamily": "$fontFamilies.Primary",
+          "fontWeight": "$fontWeights.400",
+          "lineHeight": "$lineHeights.100",
+          "fontSize": "$fontSizes.LargeScreen.600",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "semanticApp": {
+    "Display1": {
+      "value": {
+        "fontFamily": "$fontFamilies.Primary",
+        "fontWeight": "fontWeights.400",
+        "lineHeight": "$lineHeights.100",
+        "fontSize": "$fontSizes.SmallScreen.800",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "Display2": {
+      "value": {
+        "fontFamily": "$fontFamilies.Primary",
+        "fontWeight": "fontWeights.400",
+        "lineHeight": "$lineHeights.100",
+        "fontSize": "$fontSizes.SmallScreen.600",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "0"
+      },
+      "type": "typography"
+    }
+  }
+}
